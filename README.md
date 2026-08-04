@@ -33,6 +33,7 @@ LEET CODE
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0050-powx-n/) | Medium |
 | [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,5 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
