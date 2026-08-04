@@ -64,4 +64,8 @@ LEET CODE
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
