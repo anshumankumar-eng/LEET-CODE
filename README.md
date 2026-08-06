@@ -27,6 +27,7 @@ LEET CODE
 | [0001-two-sum](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ LEET CODE
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
