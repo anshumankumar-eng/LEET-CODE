@@ -34,6 +34,7 @@ LEET CODE
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0050-powx-n/) | Medium |
+| [0258-add-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -83,6 +84,7 @@ LEET CODE
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0258-add-digits/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -96,4 +98,8 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
