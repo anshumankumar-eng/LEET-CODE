@@ -11,6 +11,7 @@ LEET CODE
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0355-design-twitter/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0050-powx-n/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -86,4 +88,12 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
