@@ -28,6 +28,7 @@ LEET CODE
 | [0001-two-sum](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
@@ -96,6 +97,7 @@ LEET CODE
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
