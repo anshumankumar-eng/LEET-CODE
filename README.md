@@ -14,6 +14,7 @@ LEET CODE
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0355-design-twitter/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ LEET CODE
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
