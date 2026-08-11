@@ -6,6 +6,7 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0355-design-twitter](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0355-design-twitter/) | Medium |
 ## Linked List
@@ -46,6 +47,7 @@ LEET CODE
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -121,4 +123,8 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
