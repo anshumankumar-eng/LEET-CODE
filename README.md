@@ -36,6 +36,7 @@ LEET CODE
 | [0704-binary-search](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0704-binary-search/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +138,12 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
