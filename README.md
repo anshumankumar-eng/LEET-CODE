@@ -53,6 +53,7 @@ LEET CODE
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
