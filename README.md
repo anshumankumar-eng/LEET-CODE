@@ -41,6 +41,7 @@ LEET CODE
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
@@ -62,6 +63,7 @@ LEET CODE
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
@@ -100,6 +102,7 @@ LEET CODE
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
