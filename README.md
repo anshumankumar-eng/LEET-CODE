@@ -47,6 +47,7 @@ LEET CODE
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
