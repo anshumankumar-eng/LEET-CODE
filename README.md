@@ -30,6 +30,7 @@ LEET CODE
 | [0001-two-sum](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -128,6 +129,7 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0704-binary-search/) | Easy |
