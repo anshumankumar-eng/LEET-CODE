@@ -38,6 +38,7 @@ LEET CODE
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [4020-elevator-requests-i](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/4020-elevator-requests-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ LEET CODE
 | ------- | ------- |
 | [0258-add-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0258-add-digits/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
+| [4020-elevator-requests-i](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/4020-elevator-requests-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
