@@ -48,6 +48,7 @@ LEET CODE
 | [0258-add-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
+| [1927-sum-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1927-sum-game/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -59,6 +60,7 @@ LEET CODE
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1927-sum-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1927-sum-game/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1025-divisor-game/) | Easy |
+| [1927-sum-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1927-sum-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@ LEET CODE
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1927-sum-game/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
