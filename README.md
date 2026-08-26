@@ -61,6 +61,7 @@ LEET CODE
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1927-sum-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1927-sum-game/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
