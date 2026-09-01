@@ -9,6 +9,7 @@ LEET CODE
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0355-design-twitter](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0355-design-twitter/) | Medium |
+| [0383-ransom-note](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0383-ransom-note/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ LEET CODE
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0383-ransom-note](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0383-ransom-note/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1927-sum-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -159,4 +161,8 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
