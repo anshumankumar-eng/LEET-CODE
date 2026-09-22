@@ -66,6 +66,7 @@ LEET CODE
 | [0013-roman-to-integer](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0383-ransom-note](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0383-ransom-note/) | Easy |
+| [0541-reverse-string-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0541-reverse-string-ii/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1927-sum-game](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -127,6 +128,7 @@ LEET CODE
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0541-reverse-string-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0541-reverse-string-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
