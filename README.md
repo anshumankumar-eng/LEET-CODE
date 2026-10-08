@@ -37,6 +37,7 @@ LEET CODE
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0704-binary-search/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -103,6 +104,7 @@ LEET CODE
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -129,6 +131,7 @@ LEET CODE
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0541-reverse-string-ii/) | Easy |
