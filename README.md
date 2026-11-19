@@ -40,6 +40,7 @@ LEET CODE
 | [0088-merge-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0162-find-peak-element/) | Medium |
+| [0283-move-zeroes](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0704-binary-search/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -134,6 +135,7 @@ LEET CODE
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anshumankumar-eng/LEET-CODE/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
